@@ -74,6 +74,22 @@ http://cdn99.one:80/575218/DdQ4nS/71827.ts
 http://cdn99.one:80/575218/DdQ4nS/90711.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | 4K [FHDR]",Cartoon Network 4K FHDR
 http://cdn99.one:80/575218/DdQ4nS/71830.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | 4K [FHDR]",Warner Channel 4K FHDR
+http://cdn99.one:80/575218/DdQ4nS/90236.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://cdn99.one:80/575218/DdQ4nS/72431.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
+http://cdn99.one:80/575218/DdQ4nS/72432.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Legendados",Warner Channel FHD [LEG]
+http://cdn99.one:80/575218/DdQ4nS/90650.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://cdn99.one:80/575218/DdQ4nS/72433.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Legendados",Warner Channel HD [LEG]
+http://cdn99.one:80/575218/DdQ4nS/90649.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://cdn99.one:80/575218/DdQ4nS/72434.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Legendados",Warner Channel SD [LEG]
+http://cdn99.one:80/575218/DdQ4nS/90648.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD
 http://cdn99.one:80/575218/DdQ4nS/71828.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD [H265]
@@ -122,6 +138,7 @@ http://cdn99.one:80/575218/DdQ4nS/71834.ts
 http://cdn99.one:80/575218/DdQ4nS/71835.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax SD
 http://cdn99.one:80/575218/DdQ4nS/71836.ts
+
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | 4K [FHDR]",Combate 4K FHDR
 http://cdn99.one:80/575218/DdQ4nS/71844.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD
